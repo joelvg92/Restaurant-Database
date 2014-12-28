@@ -1,0 +1,65 @@
+body{
+background-image:url("back2.jpg");	
+background-size:cover;
+}
+.container{
+width:100%;
+height:100%;
+padding-top:80px;
+}
+.center {
+text-align:center;
+}
+
+p {
+padding-top:15px;
+}
+button {
+margin-top:20px;
+margin-bottom:20px;
+}
+
+.whiteback{
+background-color:white;
+padding:20px;
+border-radius:10px 10px;	
+border-style: solid;
+border-color:black;
+}
+
+.blackback{
+/*background-color:transparent;*/
+background-color: rgba(0, 0 0, 0.5);
+background: rgba(0, 0, 0, 0.5);
+color: rgba(0, 0, 0, 0.5);
+padding:20px;
+border-radius:10px 10px;	
+border-style: solid;
+border-color:black;
+}
+#tabled {
+height: 600px;
+overflow: auto
+
+}
+#tabled2 {
+height: 450px;
+overflow: auto
+
+}
+
+.white{
+	color:white;
+}
+.pic2{
+clear:both;
+display: block;
+max-width:35%;
+margin: 0 auto 30px;
+}
+.pic{
+clear:both;
+display: block;
+max-width:50%;
+margin: 0 auto 30px;
+}
